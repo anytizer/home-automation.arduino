@@ -1,0 +1,21 @@
+Sense	KEYWORD1
+
+any	KEYWORD2
+all	KEYWORD2
+none	KEYWORD2
+totalHigh	KEYWORD2
+
+devices	KEYWORD2
+run	KEYWORD2
+
+setup	KEYWORD3
+sensorProbesAt	KEYWORD3
+interruptionAt	KEYWORD3
+watch	KEYWORD3
+
+
+priority	LITERAL1
+identity	LITERAL1
+device	LITERAL1
+valueOfProbe	LITERAL1
+interrruptPin	LITERAL1

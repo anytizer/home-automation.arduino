@@ -1,0 +1,30 @@
+DIY Water Level Sensor - Part 1
+https://youtu.be/Rd35tZZQL2o?t=478
+	- Very good sensor making process
+
+
+How to make a Water Level Gauge in 2 minutes for $2 
+	https://www.youtube.com/watch?v=HMxyzhn78gA
+
+
+How To DIY Automatic Water Valve for Open Top Containers 
+https://youtu.be/ilbKN1gvNqg
+
+
+User does not have to make any modifications
+Use soleniod?
+
+
+
+How To Make A Water Level Indicator 
+	- https://youtu.be/PkqEAMVBx_0?t=403
+	- http://ayj.webs.com/apps/photos/photo?photoid=186738697
+
+	*BC547 Transistor (x3)
+	*LED (x3)
+	*330 Ohm Resistor (x3)
+	*Buzzer
+	*9V Battery, *9V Battery Clip
+	*Breadboard, *Wires
+
+9v, 330 ohm; current through transistor: 0.027A

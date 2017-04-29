@@ -1,0 +1,12 @@
+//int LDRPin = A2;
+//int LDRValue = 0;
+//int LightSensitivity = 600; // min required to activate something
+  //pinMode(LED_BUILTIN, OUTPUT);
+
+  //pinMode(LDRPin, INPUT);
+
+  // power line switched ON
+  //pinMode(LDRPin, INPUT); // LDR
+  //pinMode(8, OUTPUT);
+  //digitalWrite(8, HIGH);
+  // LDR connected with 8 (Vcc) and 0 (GND).

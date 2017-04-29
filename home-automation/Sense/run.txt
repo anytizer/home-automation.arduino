@@ -1,0 +1,33 @@
+
+//	bool reject();
+/**
+ * Runs or rejects a device
+ * @return
+ */
+ /*
+bool Priorities::watch()
+{
+  bool need_to_run;
+
+  need_to_run = this->runnable();
+  if(need_to_run)
+  {
+    this->run();
+  }
+  else
+  {
+    this->reject();
+  }
+  
+  return need_to_run;
+}*/
+/*
+bool Priorities::run()
+{
+	return true;
+}
+
+bool Priorities::reject()
+{
+	return true;
+}*/
